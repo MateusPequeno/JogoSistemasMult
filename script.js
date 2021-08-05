@@ -1,13 +1,12 @@
 function preload() {
-    this.load.image('player', 'assets/sumik2.png');
-    this.load.image('bck', 'assets/Bck1.png');
-    this.load.image('mob','assets/mob1.png');
-    this.load.image('brx','assets/brx.png');
+    this.load.image('personagem', 'assets/sumika.png');
+    this.load.image('bck', 'assets/BackgroundTeste.png');
+    
 }
 
 function create() {
     this.add.image(191,224,'bck');
-
+    var personagem = this.physics.add.sprite(200,200,'personagem').setScale(0.65);
     var bruxa2 = this.physics.add.sprite(300,100,'mob').setScale(0.75);
    // var platform = this.physics.add.staticGroup();
     //platform.create(80,90,'mob').setScale(0.75);
