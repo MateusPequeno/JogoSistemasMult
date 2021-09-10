@@ -13,7 +13,7 @@ Victor Maciel - Código e Assets
 Hugo Pinto - Vídeo e Assets
 
 ## Imagens
-Todas as imagens e sprites foram tiradas do spriteresources.com
+Todas as imagens foram tiradas do spriteresources.com, de diversos jogos da série Touhou. Todos os direitos reservados.
 <br></br>
 <center>
 <img src="content/COVER.png" width="500" />
