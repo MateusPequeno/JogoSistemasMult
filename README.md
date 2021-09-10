@@ -13,4 +13,7 @@ Victor Maciel - Código e Assets
 Hugo Pinto - Vídeo e Assets
 
 ## Imagens
-Todas as imagens foram tiradas do spriteresources.com
+Todas as imagens e sprites foram tiradas do spriteresources.com
+<img src="content/COVER.png" width="150" />
+
+
