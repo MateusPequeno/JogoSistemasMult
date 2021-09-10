@@ -15,6 +15,12 @@ Hugo Pinto - Vídeo e Assets
 ## Imagens
 Todas as imagens e sprites foram tiradas do spriteresources.com
 <br></br>
+<center>
 <img src="content/COVER.png" width="500" />
+  <br></br>
+  <img src="content/JOGOEMSI.png" width="500" />
+  <br></br>
+  <img src="content/GAMEOVER.png" width="500" />
+  </center>
 
 
