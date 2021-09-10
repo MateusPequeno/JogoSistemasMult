@@ -14,6 +14,6 @@ Hugo Pinto - Vídeo e Assets
 
 ## Imagens
 Todas as imagens e sprites foram tiradas do spriteresources.com
-<img src="content/COVER.png" width="150" />
+<img src="content/COVER.png" width="500" />
 
 
