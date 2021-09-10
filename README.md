@@ -1,5 +1,5 @@
 # Trabalho de Sistemas Multimídia
-Projeto de desenvolvimento de um jogo shooter 1D arcade com a linguagem JavaScript e uso do framework phaser.
+Projeto de desenvolvimento de um jogo shooter simples em arcade com a linguagem JavaScript e uso do framework phaser.
 
 O jogo em si, "Sumika",  se trata de um shooter onde uma jovem sacerdotisa viajante que, em meio à sua jornada, se deparou com uma floresta amaldiçoada, e agora, luta para purificar a floresta.
 
